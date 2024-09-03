@@ -1,0 +1,9 @@
+* open-with
+
+A utility library to open things in an external viewer
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/Shinmera/open-with.git |
+| commit  | 053c8dd                                       |
+| systems | open-with                                     |
+|---------+-----------------------------------------------|
