@@ -4,6 +4,6 @@ A utility library to open things in an external viewer
 
 |---------+-----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/open-with.git |
-| commit  | 0000000                                       |
+| commit  | d188178                                       |
 | systems | open-with                                     |
 |---------+-----------------------------------------------|
