@@ -3,7 +3,7 @@
 A utility library to open things in an external viewer
 
 |---------+-----------------------------------------------|
-| source  | git:https://github.com/Shinmera/open-with.git |
-| commit  | 07c9d1d                                       |
+| source  | git:https://codeberg.org/shinmera/open-with.git |
+| commit  | 0000000                                       |
 | systems | open-with                                     |
 |---------+-----------------------------------------------|
